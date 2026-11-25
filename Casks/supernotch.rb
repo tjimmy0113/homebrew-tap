@@ -1,6 +1,6 @@
 cask "supernotch" do
-  version "0.1.2"
-  sha256 "9542c7c6e1132c77f638063b3d5485ec9859b964d5eb5f52681678a4fa213c6b"
+  version "0.1.3"
+  sha256 "5b928541a84fad4f59dc97e6b0bfd007ca2bb5432be2a4851c28ed114d6cf292"
 
   url "https://github.com/tjimmy0113/supernotch/releases/download/v#{version}/SuperNotch-#{version}-arm64.dmg"
   name "SuperNotch"
